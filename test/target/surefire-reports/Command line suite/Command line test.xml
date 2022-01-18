@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Command line test" failures="0" tests="1" time="15.374" errors="0">
+  <properties/>
+  <testcase name="testSetFeaturedProducts" time="0.093" classname="flipkart2.test.common.test.CategoryDaoTest"/>
+</testsuite>
